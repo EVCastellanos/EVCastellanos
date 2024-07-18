@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 
 - 🔭 Actualmente estoy trabajando en pruebas de software 
 - 🌱 Actualmente estoy aprendiendo sobre MySql
+
