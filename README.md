@@ -1,6 +1,6 @@
 <h1>Hola! Soy Edith Castellanos <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h2> 💻 Ingeniera de sistemas 👨‍🎓 Soporte Funcional ERP </h2>
+<h2> 💻 Ingeniera de sistemas 👨‍🎓 Soporte Funcional ERP <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mi  
 - Soy de Bucaramanga Colombia 
@@ -17,6 +17,3 @@
 ![MySql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=Mysql)
 ![oracle](https://img.shields.io/badge/-oracle-333333?style=flat&logo=oracle)
 
-### CONTACTO <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
-<a href="https://[www.linkedin.com/in/edith-viviana-castellanos-mantilla-ab409ba7](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Edith_VIVIANA-blue?style=flat-square&logo=linkedin"></a>
-<a href="edithv.castellanos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-edithv.castellanos@gmail.com-blue?style=flat-square&logo=gmail"></a>  
